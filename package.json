@@ -1,0 +1,22 @@
+{
+  "name": "sistema-pedidos",
+  "version": "0.0.1",
+  "description": "Simples sistema de pedidos com a stack JEMN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanna Dias",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body": "^5.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "localtoken": "^0.1.2",
+    "mongoose": "^7.5.2",
+    "parser": "^0.1.4",
+    "simple-mongoose-creator": "^0.0.1"
+  }
+}
